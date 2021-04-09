@@ -4,5 +4,5 @@
 Kyung-Hee University(Computer Engineering, 2018 ~ ) <br>
 ROK Defence Communication Command Force 3rd Group (Military Service, 2019 ~ 2020)
 
-- 🌱 I’m currently learning : Basic Algorithm, OpenSourceDevelopment, DataStructure
+- 🌱 I’m currently learning : BasicAlgorithm, OpenSourceSoftware, DataStructure
 - 📫 How to reach me : jinsub1999@khu.ac.kr
